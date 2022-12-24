@@ -1,0 +1,15 @@
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/Tortiki.csproj.AssemblyReference.cache
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/Tortiki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/Tortiki.AssemblyInfoInputs.cache
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/Tortiki.AssemblyInfo.cs
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/Tortiki.csproj.CoreCompileInputs.cache
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/bin/Debug/net6.0/Tortiki
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/bin/Debug/net6.0/Tortiki.deps.json
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/bin/Debug/net6.0/Tortiki.runtimeconfig.json
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/bin/Debug/net6.0/Tortiki.dll
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/bin/Debug/net6.0/Tortiki.pdb
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/Tortiki.dll
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/refint/Tortiki.dll
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/Tortiki.pdb
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/Tortiki.genruntimeconfig.cache
+/Users/marinatursunova/RiderProjects/Tortiki/Tortiki/obj/Debug/net6.0/ref/Tortiki.dll
